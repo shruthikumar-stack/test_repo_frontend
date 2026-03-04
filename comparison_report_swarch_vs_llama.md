@@ -1,5 +1,5 @@
 # LlamaIndex vs Agent Comparison
-
+Owner:3pillar
 Generated: 2025-11-21 01:51:30
 
 ---
